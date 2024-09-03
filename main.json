@@ -1,0 +1,32 @@
+{
+    "Servers": {
+        "cpxv1": {
+            "name": "Complexo V1",
+            "media": "cpx.png",
+            "price": 100.00
+        },
+        "cpxv2": {
+            "name": "Complexo V2",
+            "media": "cpxv2.png",
+            "price": 350.00
+        },
+        "cpxv3": {
+            "name": "Complexo V3",
+            "media": "cpxv3.png",
+            "price": 500.00
+        },
+        "bunchv1": {
+            "name": "Bunch City V1",
+            "media": "bunch.png",
+            "price": 150.00
+        },
+        "bunchv2": {
+            "name": "Bunch City V2",
+            "media": "bunchv2.png",
+            "price": 350.00
+        }
+    }, 
+    "Scripts": {
+
+    }
+}
